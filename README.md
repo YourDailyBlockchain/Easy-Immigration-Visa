@@ -1,2 +1,0 @@
-# Easy-Immigration-Visa
-This project uses machine learning techniques to predict the approval or denial of travel and immigration visas—the type required to enter or stay in a country. It analyzes applicant data such as nationality, occupation, education level, and other relevant factors to forecast whether a visa will be granted, aiming to support policy analysis and streamline application processes. Note: This project is unrelated to Visa credit card applications.
